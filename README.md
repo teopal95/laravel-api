@@ -18,8 +18,8 @@
 Make sure that you have Apache and MySQL modules running from the Xampp control pannel. 
 With the Xampp control pannel open, click on Config next to Apache and select php.ini. Remove the smicolon (;) from the line ;extention=zip.
 
-1. Download the code from laravel-api project, and open it with Visual Studio.
-2. In Visual Studio, open a new terminal and run the command composer update
+1. Download the code from <b>laravel-api</b> project, and open it with Visual Studio.
+2. In Visual Studio, open a new terminal and run the command <b>composer update</b>
 3. Rename <b>.env.example file to .env</b>
 4. Run the command <b>php artisan key:generate</b>
 5. Open MySQL database and create a new database named <b>games</b>
