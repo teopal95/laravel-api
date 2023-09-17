@@ -63,6 +63,14 @@ And to delete you enter the number in the Id column of the game in the database:
 
 ![image](https://github.com/teopal95/laravel-api/assets/80754964/62168b61-2306-4db8-a3c4-2cd131db63ca)
 
+Larvel's validation features were used to validate game data:
+
+![image](https://github.com/teopal95/laravel-api/assets/80754964/9b1a720e-e8f5-4871-83a2-14b3ed56a250)
+![image](https://github.com/teopal95/laravel-api/assets/80754964/5a9f0eab-6ab0-442a-8710-6975d96e2d89)
+
+
+
+
 
 
 
