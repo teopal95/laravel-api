@@ -18,17 +18,13 @@
 Make sure that you have Apache and MySQL modules running from the Xampp control pannel. 
 With the Xampp control pannel open, click on Config next to Apache and select php.ini. Remove the smicolon (;) from the line ;extention=zip.
 
-Download the code from laravel-api project, and open it with Visual Studio.
-In Visual Studio, open a new terminal and run the command composer update
- Rename .env.example file to .env
-
- Run the command php artisan key:generate
-
- Open MySQL database and create a new database named games
-
- Run the command php artisan migrate 
-
- Finally, run php artisan serve
+1. Download the code from laravel-api project, and open it with Visual Studio.
+2. In Visual Studio, open a new terminal and run the command composer update
+3. Rename <b>.env.example file to .env</b>
+4. Run the command <b>php artisan key:generate</b>
+5. Open MySQL database and create a new database named <b>games</b>
+6. Run the command <b>php artisan migrate</b> 
+7. Finally, run <b>php artisan serve</b>
 
 
 In a browser, type localhost:8000. You should be able to see the data base running.
