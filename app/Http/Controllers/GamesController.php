@@ -26,7 +26,8 @@ class GamesController extends Controller
         if ($validator->fails()) {
             return $validator->errors();
         } else {
-	return ["result"=>"Valid Request"];
+        return Games::create($request->all());
+	//return ["result"=>"Valid Request"];
     }
 
     } 

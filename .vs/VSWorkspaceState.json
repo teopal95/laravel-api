@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\Http",
-    "\\app\\Models",
-    "\\app\\Providers",
+    "\\app\\Exceptions",
     "\\database",
+    "\\database\\factories",
+    "\\database\\migrations",
+    "\\public",
     "\\resources",
-    "\\resources\\views",
-    "\\routes"
+    "\\resources\\css",
+    "\\resources\\js"
   ],
-  "SelectedNode": "\\vite.config.js",
+  "SelectedNode": "\\routes\\api.php",
   "PreviewInSolutionExplorer": false
 }
