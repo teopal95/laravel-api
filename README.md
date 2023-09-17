@@ -21,10 +21,15 @@ With the Xampp control pannel open, click on Config next to Apache and select ph
 Download the code from laravel-api project, and open it with Visual Studio.
 In Visual Studio, open a new terminal and run the command composer update
  Rename .env.example file to .env
+
  Run the command php artisan key:generate
+
  Open MySQL database and create a new database named games
+
  Run the command php artisan migrate 
+
  Finally, run php artisan serve
+
 
 In a browser, type localhost:8000. You should be able to see the data base running.
 
