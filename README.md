@@ -20,11 +20,11 @@ With the Xampp control pannel open, click on Config next to Apache and select ph
 
 Download the code from laravel-api project, and open it with Visual Studio.
 In Visual Studio, open a new terminal and run the command composer update
-Rename .env.example fle to .env
-Run the command php artisan key:generate
-Open MySQL database and create a new database named games
-Run the command php artisan migrate 
-Finally, run php artisan serve
+ Rename .env.example file to .env
+ Run the command php artisan key:generate
+ Open MySQL database and create a new database named games
+ Run the command php artisan migrate 
+ Finally, run php artisan serve
 
 In a browser, type localhost:8000. You should be able to see the data base running.
 
@@ -68,11 +68,12 @@ And to delete you enter the number in the Id column of the game in the database:
 
 ![image](https://github.com/teopal95/laravel-api/assets/80754964/62168b61-2306-4db8-a3c4-2cd131db63ca)
 
-Larvel's validation features were used to validate game data:
+## Validation:
 
 ![image](https://github.com/teopal95/laravel-api/assets/80754964/9b1a720e-e8f5-4871-83a2-14b3ed56a250)
 ![image](https://github.com/teopal95/laravel-api/assets/80754964/5a9f0eab-6ab0-442a-8710-6975d96e2d89)
 
+## Eqoquent ORM:
 The databases were created using Laravel's Eloquent ORM
 ![image](https://github.com/teopal95/laravel-api/assets/80754964/69fb8444-8c16-419b-b9fd-fd8a48453d2b)
 
