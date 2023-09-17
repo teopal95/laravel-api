@@ -1,11 +1,16 @@
 
-## You will need installed:
+## You will need:
 
  PHP - 8.1
+
  Composer - 2.6
+
  Laravel - 10.2
+
  Xampp - 8.2.4
+
  Visual Studio 2019
+
  Postman app
 
 ## How to Install 
