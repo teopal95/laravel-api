@@ -68,6 +68,9 @@ Larvel's validation features were used to validate game data:
 ![image](https://github.com/teopal95/laravel-api/assets/80754964/9b1a720e-e8f5-4871-83a2-14b3ed56a250)
 ![image](https://github.com/teopal95/laravel-api/assets/80754964/5a9f0eab-6ab0-442a-8710-6975d96e2d89)
 
+The databases were created using Laravel's Eloquent ORM
+![image](https://github.com/teopal95/laravel-api/assets/80754964/69fb8444-8c16-419b-b9fd-fd8a48453d2b)
+
 
 
 
