@@ -16,7 +16,7 @@
 ## How to Install 
 
 Make sure that you have Apache and MySQL modules running from the Xampp control pannel. 
-With the Xampp control pannel open, click on Config next to Apache and select php.ini. Remove the smicolon (;) from the line ;extention=zip.
+With the Xampp control pannel open, click on Config next to Apache and select php.ini. Remove the semicolon (;) from the line <b>;extention=zip</b>.
 
 1. Download the code from <b>laravel-api</b> project, and open it with Visual Studio.
 2. In Visual Studio, open a new terminal and run the command <b>composer update</b>
